@@ -21,7 +21,7 @@
     },
     "AUTO_STATUS_REACT": {
       "description": "Set true to auto-react to Status.",
-      "value": "false",
+      "value": "true",
       "required": false
     },
       "ANTIDELETE": {
